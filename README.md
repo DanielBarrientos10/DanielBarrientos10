@@ -1,81 +1,117 @@
-# 👨‍💻 Desarrollador Back-End y Frond-End
+<p align="center">
+  <img src="https://github.com/DanielBarrientos10/DanielBarrientos10/blob/main/profile.jpg" width="180" style="border-radius: 50%;"/>
+</p>
 
-¡Hola! Soy un **Desarrollador Back-End y Frond-End** apasionado por la tecnología, la optimización de procesos y la creación de soluciones eficientes.  
-Me especializo en el desarrollo web utilizando **JavaScript**, **HTML** y **CSS**, además del **modelado y gestión de bases de datos relacionales** con **MySQL**.
+# 👨‍💻 Desarrollador Back-End | Full Stack en Formación
+
+¡Hola! Soy **Daniel Alejandro Barrientos Vargas**, un **Desarrollador Back-End** y **Full Stack en formación**, apasionado por la tecnología, la optimización de procesos y la creación de soluciones eficientes.  
+Actualmente estudio **Tecnología en Análisis y Desarrollo de Software** en el **SENA (Colombia)**.  
+
+Me especializo en el desarrollo web utilizando **JavaScript**, **HTML**, **CSS** y en el **modelado de bases de datos relacionales** con **MySQL**, aunque también tengo experiencia con **Python, Java, PostgreSQL y MongoDB**.
 
 ---
 
 ## 🧠 Habilidades Técnicas
 
-- **Lenguajes de Programación:**  
-  JavaScript (ES6+), HTML5, CSS3
+**Lenguajes:**  
+JavaScript (ES6+), Python, Java, SQL  
 
-- **Bases de Datos:**  
-  Modelado relacional, diseño de esquemas, consultas SQL, optimización de rendimiento con **MySQL**
+**Frameworks:**  
+React, Node.js, Express, Spring Boot  
 
-- **Desarrollo Back-End:**  
-  Arquitectura de servidores, manejo de rutas, integración de APIs, autenticación y seguridad básica
+**Bases de Datos:**  
+MySQL, PostgreSQL, MongoDB  
 
-- **Control de Versiones:**  
-  Git y GitHub (ramas, commits, pull requests)
+**Herramientas y Control de Versiones:**  
+Git, GitHub, Visual Studio Code  
+
+**Diseño y Front-End:**  
+HTML5, CSS3, Bootstrap, Tailwind CSS  
 
 ---
 
 ## 🧩 Enfoque de Trabajo
 
-Me gusta construir aplicaciones sólidas y escalables, enfocándome en la **lógica del lado del servidor**, la **integración con bases de datos** y la **seguridad de los datos**.  
-Busco mejorar constantemente mis conocimientos en frameworks y tecnologías que fortalezcan el entorno **back-end**.
+Me gusta construir **aplicaciones escalables, seguras y bien estructuradas**, aplicando buenas prácticas de programación.  
+Disfruto trabajando tanto en el **back-end** como explorando el **front-end** para desarrollar soluciones completas.  
+Estoy comprometido con la mejora continua y la colaboración en proyectos que representen desafíos reales.
 
 ---
 
 ## 🚀 Objetivos Profesionales
 
-- Profundizar en frameworks como **Node.js** y **Express.js**  
-- Contribuir en proyectos colaborativos de código abierto  
-- Participar en el diseño e implementación de arquitecturas de software robustas  
+- Consolidar mis conocimientos en **Node.js** y **Express.js**  
+- Desarrollar proyectos integrales con **React y APIs RESTful**  
+- Contribuir en **proyectos open source** y comunidades de desarrollo  
+- Participar en equipos de desarrollo ágil para fortalecer mi experiencia profesional  
 
 ---
 
 ## ⭐ Repositorios Destacados
 
-### 🔹 [GestorInventario](https://github.com/TuUsuario/GestorInventario)
+### 🔹 [Actividades desarrolladas sobre HTML y CSS](https://github.com/DanielBarrientos10/studio)
+Colección de actividades y proyectos desarrollados en el curso de desarrollo web.  
+**Tecnologías:** HTML, CSS, JavaScript  
+
+---
+
+### 🔹 [Proyecto de C++](https://github.com/DanielBarrientos10/proyect-c-)
+Proyecto académico con un menú interactivo de opciones básicas desarrollado en C++.  
+**Tecnologías:** C++, Lógica de Programación  
+
+---
+
+### 🔹 [GestorInventario](https://github.com/DanielBarrientos10/GestorInventario)
 Aplicación para la **gestión de inventarios** de productos, con control de stock, ventas y reportes.  
 **Tecnologías:** JavaScript, Node.js, Express, MySQL, HTML, CSS  
 
 ---
 
-### 🔹 [APIUsuarios](https://github.com/TuUsuario/APIUsuarios)
-API RESTful para el manejo de usuarios con autenticación, JWT y CRUD completo.  
-**Tecnologías:** JavaScript, Node.js, Express, MySQL  
-
----
-
-### 🔹 [DashboardVentas](https://github.com/TuUsuario/DashboardVentas)
-Panel administrativo con métricas en tiempo real sobre ventas y clientes.  
-**Tecnologías:** JavaScript, Chart.js, HTML, CSS, MySQL  
-
----
-
-### 🔹 [TiendaVirtual](https://github.com/TuUsuario/TiendaVirtual)
-Proyecto e-commerce con conexión a base de datos y gestión de productos y usuarios.  
-**Tecnologías:** HTML, CSS, JavaScript, MySQL  
+### 🔹 [APIUsuarios](https://github.com/DanielBarrientos10/APIUsuarios)
+API RESTful para la gestión de usuarios con autenticación y CRUD completo.  
+**Tecnologías:** Node.js, Express, MySQL  
 
 ---
 
 ## 📊 Estadísticas de GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TuUsuario&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TuUsuario&layout=compact&theme=tokyonight)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TuUsuario&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DanielBarrientos10&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielBarrientos10&layout=compact&theme=tokyonight)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DanielBarrientos10&theme=tokyonight)  
+![GitHub Activity](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DanielBarrientos10&theme=tokyonight)
+
+---
+
+## 📈 Commits y Lenguajes
+
+![Repos por Lenguaje](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DanielBarrientos10&theme=tokyonight)  
+![Lenguaje más usado en commits](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DanielBarrientos10&theme=tokyonight)
+
+---
+
+## 🌍 Idiomas
+
+- **Español:** Nativo  
+- **Inglés:** En curso  
+
+---
+
+## 🎓 Educación
+
+📚 **Tecnólogo en Análisis y Desarrollo de Software**  
+**SENA** — Medellín, Colombia (2025 - 2027)
 
 ---
 
 ## 📫 Contacto
 
-- **GitHub:** [TuUsuario](https://github.com/TuUsuario)  
-- **Correo:** tuemail@correo.com  
-- **LinkedIn (opcional):** [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)
+- **GitHub:** [DanielBarrientos10](https://github.com/DanielBarrientos10)  
+- **Correo:** dbarrientos779@gamil.com  
+- **LinkedIn:** [Daniel Alejandro Barrientos Vargas](https://www.linkedin.com/in/daniel-alejandro-barrientos-vargas-602603384)  
+- **Ubicación:** Medellín, Colombia  
 
 ---
+
+💡 *“El código limpio y bien estructurado es la base de una gran aplicación.”*
 
 💡 *“El código limpio y bien estructurado es la base de una gran aplicación.”*
