@@ -1,6 +1,6 @@
-# 👨‍💻 Desarrollador Back-End
+# 👨‍💻 Desarrollador Back-End y Frond-End
 
-¡Hola! Soy un **Desarrollador Back-End** apasionado por la tecnología, la optimización de procesos y la creación de soluciones eficientes.  
+¡Hola! Soy un **Desarrollador Back-End y Frond-End** apasionado por la tecnología, la optimización de procesos y la creación de soluciones eficientes.  
 Me especializo en el desarrollo web utilizando **JavaScript**, **HTML** y **CSS**, además del **modelado y gestión de bases de datos relacionales** con **MySQL**.
 
 ---
