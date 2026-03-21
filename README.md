@@ -49,7 +49,7 @@ Estoy comprometido con la mejora continua y la colaboración en proyectos que re
 
 ## ⭐ Repositorios Destacados
 
-### 🔹 [Actividades desarrolladas sobre HTML y CSS](https://github.com/DanielBarrientos10/studio)
+### 🔹 [Actividades basicas desarrolladas sobre HTML y CSS](https://github.com/DanielBarrientos10/studio)
 Colección de actividades y proyectos desarrollados en el curso de desarrollo web.  
 **Tecnologías:** HTML, CSS, JavaScript  
 
@@ -61,7 +61,7 @@ Proyecto académico con un menú interactivo de opciones básicas desarrollado e
 
 ---
 
-### 🧵 [D&D Textil - Tienda Digital](https://github.com/DanielBarrientos10/Project-Sena-Web-Store-Textil)
+### 🔹 [D&D Textil - Tienda Digital](https://github.com/DanielBarrientos10/Project-Sena-Web-Store-Textil)
 Aplicación web full stack para la **venta de telas**, con sistema de carrito de compras, autenticación de usuarios y panel administrativo.
 
 Este proyecto integra tanto **front-end como back-end**, aplicando arquitectura modular y conexión con base de datos.
@@ -69,7 +69,7 @@ Este proyecto integra tanto **front-end como back-end**, aplicando arquitectura 
 **Tecnologías utilizadas:**
 - Frontend: React, Vite, Tailwind CSS  
 - Backend: Java (API REST)  
-- Base de Datos: PostgreSQL / MySQL (modelado relacional)  
+- Base de Datos: PostgreSQL 
 - Otros: Git, GitHub  
 
 **Funcionalidades:**
