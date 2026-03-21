@@ -2,10 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00b4d8,100:0077b6&height=200&section=header&text=Daniel%20Barrientos&fontSize=50&fontColor=ffffff" />
 </p>
 
-<p align="center">
-  <img src="https://github.com/DanielBarrientos10.png" width="150">
-</p>
-
 # 👨‍💻 Desarrollador Back-End | Full Stack en Formación
 
 ¡Hola! Soy **Daniel Alejandro Barrientos Vargas**, un **Desarrollador Back-End** y **Full Stack en formación**, apasionado por la tecnología, la optimización de procesos y la creación de soluciones eficientes.  
