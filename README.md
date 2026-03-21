@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="https://github.com/DanielBarrientos10.png" width="180">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00b4d8,100:0077b6&height=200&section=header&text=Daniel%20Barrientos&fontSize=50&fontColor=ffffff" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/DanielBarrientos10.png" width="150">
 </p>
 
 # 👨‍💻 Desarrollador Back-End | Full Stack en Formación
