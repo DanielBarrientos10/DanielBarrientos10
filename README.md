@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/DanielBarrientos10/DanielBarrientos10/blob/main/profile.jpg" width="180" style="border-radius: 50%;"/>
+  <img src="https://raw.githubusercontent.com/DanielBarrientos10/DanielBarrientos10/main/profile.jpg" width="180"/>
 </p>
 
 # 👨‍💻 Desarrollador Back-End | Full Stack en Formación
@@ -81,19 +81,7 @@ Este proyecto integra tanto **front-end como back-end**, aplicando arquitectura 
 
 ---
 
-## 📊 Estadísticas de GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DanielBarrientos10&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielBarrientos10&layout=compact&theme=tokyonight)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DanielBarrientos10&theme=tokyonight)  
 ![GitHub Activity](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DanielBarrientos10&theme=tokyonight)
-
----
-
-## 📈 Commits y Lenguajes
-
-![Repos por Lenguaje](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DanielBarrientos10&theme=tokyonight)  
-![Lenguaje más usado en commits](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DanielBarrientos10&theme=tokyonight)
 
 ---
 
@@ -117,7 +105,4 @@ Este proyecto integra tanto **front-end como back-end**, aplicando arquitectura 
 - **Correo:** dbarrientos779@gamil.com  
 - **Ubicación:** Medellín, Colombia  
 
----
-
-💡 *“El código limpio y bien estructurado es la base de una gran aplicación.”*
 
