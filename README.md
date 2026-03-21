@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://github.com/DanielBarrientos10.png" width="180"/>
-</p>
+<img src="https://github.com/DanielBarrientos10.png" width="180"/>
 
 # 👨‍💻 Desarrollador Back-End | Full Stack en Formación
 
