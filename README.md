@@ -7,7 +7,7 @@
 ¡Hola! Soy **Daniel Alejandro Barrientos Vargas**, un **Desarrollador Back-End** y **Full Stack en formación**, apasionado por la tecnología, la optimización de procesos y la creación de soluciones eficientes.  
 Actualmente estudio **Tecnología en Análisis y Desarrollo de Software** en el **SENA (Colombia)**.  
 
-Me especializo en el desarrollo web utilizando **JavaScript**, **HTML**, **CSS** y en el **modelado de bases de datos relacionales** con **MySQL**, aunque también tengo experiencia con **Python, Java, PostgreSQL y MongoDB**.
+Me especializo en el desarrollo web utilizando **JavaScript**, **HTML**, **CSS** y en el **modelado de bases de datos relacionales** con **MySQL**, aunque también tengo experiencia con **Python, Java y PostgreSQL **.
 
 ---
 
@@ -17,13 +17,13 @@ Me especializo en el desarrollo web utilizando **JavaScript**, **HTML**, **CSS**
 JavaScript (ES6+), Python, Java, SQL  
 
 **Frameworks:**  
-React, Node.js, Express, Spring Boot  
+React, Node.js  
 
 **Bases de Datos:**  
-MySQL, PostgreSQL, MongoDB  
+MySQL (modelado relacional, consultas avanzadas, joins, normalización), PostgreSQL
 
 **Herramientas y Control de Versiones:**  
-Git, GitHub, Visual Studio Code  
+Git, GitHub, Visual Studio Code, cursor 
 
 **Diseño y Front-End:**  
 HTML5, CSS3, Bootstrap, Tailwind CSS  
@@ -61,15 +61,23 @@ Proyecto académico con un menú interactivo de opciones básicas desarrollado e
 
 ---
 
-### 🔹 [GestorInventario](https://github.com/DanielBarrientos10/GestorInventario)
-Aplicación para la **gestión de inventarios** de productos, con control de stock, ventas y reportes.  
-**Tecnologías:** JavaScript, Node.js, Express, MySQL, HTML, CSS  
+### 🧵 [D&D Textil - Tienda Digital](https://github.com/DanielBarrientos10/Project-Sena-Web-Store-Textil)
+Aplicación web full stack para la **venta de telas**, con sistema de carrito de compras, autenticación de usuarios y panel administrativo.
 
----
+Este proyecto integra tanto **front-end como back-end**, aplicando arquitectura modular y conexión con base de datos.
 
-### 🔹 [APIUsuarios](https://github.com/DanielBarrientos10/APIUsuarios)
-API RESTful para la gestión de usuarios con autenticación y CRUD completo.  
-**Tecnologías:** Node.js, Express, MySQL  
+**Tecnologías utilizadas:**
+- Frontend: React, Vite, Tailwind CSS  
+- Backend: Java (API REST)  
+- Base de Datos: PostgreSQL / MySQL (modelado relacional)  
+- Otros: Git, GitHub  
+
+**Funcionalidades:**
+- Catálogo de productos  
+- Carrito de compras  
+- Gestión de usuarios  
+- Panel administrativo  
+- Sistema de pedidos  
 
 ---
 
@@ -107,11 +115,9 @@ API RESTful para la gestión de usuarios con autenticación y CRUD completo.
 
 - **GitHub:** [DanielBarrientos10](https://github.com/DanielBarrientos10)  
 - **Correo:** dbarrientos779@gamil.com  
-- **LinkedIn:** [Daniel Alejandro Barrientos Vargas](https://www.linkedin.com/in/daniel-alejandro-barrientos-vargas-602603384)  
 - **Ubicación:** Medellín, Colombia  
 
 ---
 
 💡 *“El código limpio y bien estructurado es la base de una gran aplicación.”*
 
-💡 *“El código limpio y bien estructurado es la base de una gran aplicación.”*
