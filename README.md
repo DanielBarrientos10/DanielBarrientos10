@@ -88,27 +88,12 @@ Estudiante de **Tecnología en Análisis y Desarrollo de Software (ADSO)** en el
   <br/>
   <img src="https://streak-stats.demolab.com?user=DanielBarrientos10&hide_border=true&background=0D1B2E&ring=00B4D8&fire=48CAE4&currStreakLabel=48CAE4&sideLabels=CBD5E1&dates=6B8299&stroke=1B2F47&currStreakNum=FFFFFF&sideNums=FFFFFF&locale=es" />
   <br/>
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=DanielBarrientos10&bg_color=0d1b2e&color=48cae4&line=0077b6&point=ffffff&area=true&area_color=0077b6&hide_border=true&radius=16&custom_title=Contribuciones%20recientes" />
-  <br/>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DanielBarrientos10/DanielBarrientos10/output/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DanielBarrientos10/DanielBarrientos10/output/github-snake.svg" />
     <img width="100%" alt="Serpiente comiéndose las contribuciones" src="https://raw.githubusercontent.com/DanielBarrientos10/DanielBarrientos10/output/github-snake-dark.svg" />
   </picture>
 </div>
-
-<br/>
-
-<!-- ════════════════════════════ HOJA DE RUTA ════════════════════════════ -->
-## 🎯 Hoja de Ruta
-
-- [x] Construir APIs REST con **Java / Spring Boot** y **Python / Django**
-- [x] Desarrollar un e-commerce full stack en equipo bajo **Scrum**
-- [x] Migrar una aplicación de escritorio a **.NET 8**
-- [ ] Dominar **TypeScript** en proyectos reales
-- [ ] Profundizar en **Node.js / Express.js**
-- [ ] Contribuir a proyectos **open source**
-- [ ] Conseguir mi **primera oportunidad profesional** en un equipo de desarrollo ágil
 
 <br/>
 
