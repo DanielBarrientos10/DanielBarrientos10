@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="262" viewBox="0 0 1200 262" role="img" aria-label="Ruta de formación">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#08121f"/><stop offset=".5" stop-color="#0c1c30"/><stop offset="1" stop-color="#08121f"/></linearGradient>
+  <linearGradient id="prog" gradientUnits="userSpaceOnUse" x1="140" y1="0" x2="760" y2="0"><stop offset="0" stop-color="#2ee59d"/><stop offset="1" stop-color="#00b4d8"/></linearGradient>
+  <style>
+    .m{font-family:'JetBrains Mono','Fira Code',Consolas,'DejaVu Sans Mono','Courier New',monospace}
+    .s{font-family:'Segoe UI',Inter,Ubuntu,'Helvetica Neue',Arial,sans-serif}
+
+    .grow{stroke-dasharray:620;stroke-dashoffset:620;animation:g 2.2s .3s cubic-bezier(.3,.7,.2,1) forwards}
+    @keyframes g{to{stroke-dashoffset:0}}
+    .ant{stroke-dasharray:4 9;animation:an 1.2s linear infinite}
+    @keyframes an{to{stroke-dashoffset:-26}}
+    .pop{}
+    @keyframes p{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:none}}
+    .ring{transform-box:fill-box;transform-origin:center;animation:r 2.2s ease-out infinite}
+    @keyframes r{from{opacity:.8;transform:scale(1)}to{opacity:0;transform:scale(2.4)}}
+  </style>
+</defs>
+<rect x="1" y="1" width="1198" height="260" rx="18" fill="url(#bg)" stroke="#1b2f47" stroke-width="1.5"/>
+<line x1="140" y1="116" x2="760" y2="116" stroke="#1b2f47" stroke-width="4" stroke-linecap="round"/>
+<line x1="140" y1="116" x2="760" y2="116" stroke="url(#prog)" stroke-width="4" stroke-linecap="round" class="grow"/>
+<line x1="782" y1="116" x2="1040" y2="116" stroke="#ffd166" stroke-opacity=".6" stroke-width="3" stroke-linecap="round" class="ant"/>
+<text x="32" y="34" class="m" font-size="13" fill="#6b8299">// ruta_de_formacion</text>
+
+<g class="pop" style="animation-delay:0.40s">
+<circle cx="140" cy="116" r="15" fill="#0b1726" stroke="#2ee59d" stroke-width="3"/><path d="M134 116 l4 4 l8 -8" fill="none" stroke="#2ee59d" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"/>
+<g transform="translate(99.0 58)"><rect width="82" height="24" rx="12" fill="#2ee59d" fill-opacity=".13" stroke="#2ee59d" stroke-opacity=".5"/><text x="41.0" y="16.5" text-anchor="middle" class="m" font-size="12" font-weight="600" fill="#2ee59d">Graduado</text></g>
+<text x="140" y="168" text-anchor="middle" class="s" font-size="17" font-weight="700" fill="#ffffff">Bachiller Técnico</text>
+<text x="140" y="192" text-anchor="middle" class="s" font-size="13.5" fill="#94a3b8">Educación media técnica</text>
+</g>
+<g class="pop" style="animation-delay:0.85s">
+<circle cx="450" cy="116" r="15" fill="#0b1726" stroke="#2ee59d" stroke-width="3"/><path d="M444 116 l4 4 l8 -8" fill="none" stroke="#2ee59d" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"/>
+<g transform="translate(386.0 58)"><rect width="128" height="24" rx="12" fill="#2ee59d" fill-opacity=".13" stroke="#2ee59d" stroke-opacity=".5"/><text x="64.0" y="16.5" text-anchor="middle" class="m" font-size="12" font-weight="600" fill="#2ee59d">2 certificados</text></g>
+<text x="450" y="168" text-anchor="middle" class="s" font-size="17" font-weight="700" fill="#ffffff">Cisco Networking Academy</text>
+<text x="450" y="192" text-anchor="middle" class="s" font-size="13.5" fill="#94a3b8">Redes · Hardware de computadora</text>
+<text x="450" y="213" text-anchor="middle" class="s" font-size="13.5" fill="#94a3b8">SENA / Cisco</text>
+</g>
+<g class="pop" style="animation-delay:1.30s">
+<circle class="ring" cx="760" cy="116" r="15" fill="none" stroke="#00b4d8" stroke-width="2"/><circle cx="760" cy="116" r="15" fill="#00b4d8"/><circle cx="760" cy="116" r="6" fill="#ffffff"/>
+<g transform="translate(719.0 58)"><rect width="82" height="24" rx="12" fill="#00b4d8" fill-opacity=".13" stroke="#00b4d8" stroke-opacity=".5"/><text x="41.0" y="16.5" text-anchor="middle" class="m" font-size="12" font-weight="600" fill="#00b4d8">En curso</text></g>
+<text x="760" y="168" text-anchor="middle" class="s" font-size="17" font-weight="700" fill="#ffffff">Tecnología ADSO · SENA</text>
+<text x="760" y="192" text-anchor="middle" class="s" font-size="13.5" fill="#94a3b8">Análisis y Desarrollo de Software</text>
+<text x="760" y="213" text-anchor="middle" class="s" font-size="13.5" fill="#94a3b8">Ficha 3237270 · 2025 - 2027</text>
+</g>
+<g class="pop" style="animation-delay:1.75s">
+<circle cx="1060" cy="116" r="15" fill="#0b1726" stroke="#ffd166" stroke-width="2.5" stroke-dasharray="5 4"/><text x="1060" y="121" text-anchor="middle" class="s" font-size="15" font-weight="800" fill="#ffd166">→</text>
+<g transform="translate(1003.5 58)"><rect width="113" height="24" rx="12" fill="#ffd166" fill-opacity=".13" stroke="#ffd166" stroke-opacity=".5"/><text x="56.5" y="16.5" text-anchor="middle" class="m" font-size="12" font-weight="600" fill="#ffd166">Próximo paso</text></g>
+<text x="1060" y="168" text-anchor="middle" class="s" font-size="17" font-weight="700" fill="#ffffff">Primera oportunidad</text>
+<text x="1060" y="192" text-anchor="middle" class="s" font-size="13.5" fill="#94a3b8">Equipo de desarrollo ágil</text>
+</g>
+</svg>

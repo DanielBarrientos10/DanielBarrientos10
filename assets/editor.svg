@@ -1,0 +1,116 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="640" viewBox="0 0 1200 640" role="img" aria-label="Editor de código: sobre_mi.py">
+<defs>
+  <linearGradient id="win" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#0d1a2b"/><stop offset="1" stop-color="#091320"/></linearGradient>
+  <linearGradient id="edge" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#00b4d8" stop-opacity=".7"/><stop offset=".5" stop-color="#1e3a5f"/><stop offset="1" stop-color="#0077b6" stop-opacity=".7"/></linearGradient>
+  <style>
+    .m{font-family:'JetBrains Mono','Fira Code',Consolas,'DejaVu Sans Mono','Courier New',monospace}
+    .s{font-family:'Segoe UI',Inter,Ubuntu,'Helvetica Neue',Arial,sans-serif}
+    .ln{animation:t .35s ease-out backwards}
+    @keyframes t{from{opacity:0;transform:translateX(-8px)}to{opacity:1;transform:none}}
+    .cur{animation:b 1s steps(1) infinite}
+    @keyframes b{50%{opacity:0}}
+  </style>
+</defs>
+<rect x="1" y="1" width="1198" height="638" rx="18" fill="url(#win)" stroke="url(#edge)" stroke-width="2"/>
+<!-- barra de título -->
+<path d="M1 19 a18 18 0 0 1 18 -18 H1181 a18 18 0 0 1 18 18 V46 H1Z" fill="#0a1524"/>
+<circle cx="30" cy="24" r="7" fill="#ff5f57"/><circle cx="54" cy="24" r="7" fill="#febc2e"/><circle cx="78" cy="24" r="7" fill="#28c840"/>
+<text x="600.0" y="29" text-anchor="middle" class="s" font-size="14" fill="#7f93a8">sobre_mi.py — DanielBarrientos10 — Visual Studio Code</text>
+<line x1="1" y1="46" x2="1199" y2="46" stroke="#1b2f47"/>
+<!-- barra lateral -->
+<rect x="1" y="47" width="229" height="565" fill="#0b1726"/>
+<line x1="230" y1="46" x2="230" y2="612" stroke="#1b2f47"/>
+<text x="22" y="76" class="s" font-size="11" font-weight="700" letter-spacing="1.5" fill="#6b8299">EXPLORADOR</text>
+
+<text x="16" y="106" class="m" font-size="13" font-weight="700" fill="#cbd5e1">▾ DANIELBARRIENTOS10</text>
+<text x="32" y="132" class="m" font-size="13" fill="#cbd5e1">▾ proyectos</text>
+<text x="48" y="158" class="m" font-size="13" fill="#9fb3c8">▸ dd-textil</text>
+<text x="64" y="184" class="m" font-size="11" fill="#5c7a8f">Spring Boot · React</text>
+<text x="48" y="206" class="m" font-size="13" fill="#9fb3c8">▸ restoos</text>
+<text x="64" y="232" class="m" font-size="11" fill="#5c7a8f">C# · .NET 8</text>
+<text x="32" y="254" class="m" font-size="13" fill="#cbd5e1">▾ sena-adso</text>
+<text x="48" y="280" class="m" font-size="13" fill="#9fb3c8">ficha_3237270.md</text>
+<rect x="1" y="290" width="229" height="24" fill="#00b4d8" fill-opacity=".12"/>
+<rect x="1" y="290" width="3" height="24" fill="#00b4d8"/>
+<text x="32" y="306" class="m" font-size="12.5" fill="#ffd43b">py</text>
+<text x="56" y="306" class="m" font-size="13" fill="#ffffff">sobre_mi.py</text>
+<text x="32" y="332" class="m" font-size="13" fill="#9fb3c8">README.md</text>
+<rect x="231" y="47" width="968" height="36" fill="#0a1524"/>
+<rect x="231" y="47" width="144" height="36" fill="#0d1a2b"/><rect x="231" y="47" width="144" height="2" fill="#00b4d8"/>
+<circle cx="247" cy="65" r="4" fill="#ffd43b"/>
+<text x="259" y="70" class="m" font-size="13" fill="#e2e8f0">sobre_mi.py</text>
+<circle cx="391" cy="65" r="4" fill="#f89820"/>
+<text x="403" y="70" class="m" font-size="13" fill="#6b8299">DdTextilApi.java</text>
+<circle cx="575" cy="65" r="4" fill="#9b72ff"/>
+<text x="587" y="70" class="m" font-size="13" fill="#6b8299">RestoOS.cs</text>
+<line x1="230" y1="83" x2="1199" y2="83" stroke="#1b2f47"/>
+<g class="ln" style="animation-delay:0.30s">
+<text x="270" y="116" text-anchor="end" class="m" font-size="13" fill="#3d5670">1</text>
+<text x="294" y="116" class="m" font-size="14" xml:space="preserve"><tspan fill="#c792ea">class </tspan><tspan fill="#ffcb6b">Daniel</tspan><tspan fill="#89ddff">(</tspan><tspan fill="#ffcb6b">Developer</tspan><tspan fill="#89ddff">):</tspan></text>
+</g>
+<g class="ln" style="animation-delay:0.42s">
+<text x="270" y="140" text-anchor="end" class="m" font-size="13" fill="#3d5670">2</text>
+<text x="294" y="140" class="m" font-size="14" xml:space="preserve"><tspan fill="#e2e8f0">    </tspan><tspan fill="#5c7a8f">"""Estudiante ADSO · SENA — Full Stack en formación"""</tspan></text>
+</g>
+<g class="ln" style="animation-delay:0.54s">
+<text x="270" y="164" text-anchor="end" class="m" font-size="13" fill="#3d5670">3</text>
+</g>
+<g class="ln" style="animation-delay:0.59s">
+<text x="270" y="188" text-anchor="end" class="m" font-size="13" fill="#3d5670">4</text>
+<text x="294" y="188" class="m" font-size="14" xml:space="preserve"><tspan fill="#e2e8f0">    </tspan><tspan fill="#c792ea">def </tspan><tspan fill="#82aaff">__init__</tspan><tspan fill="#89ddff">(</tspan><tspan fill="#f78c6c">self</tspan><tspan fill="#89ddff">):</tspan></text>
+</g>
+<g class="ln" style="animation-delay:0.71s">
+<text x="270" y="212" text-anchor="end" class="m" font-size="13" fill="#3d5670">5</text>
+<text x="294" y="212" class="m" font-size="14" xml:space="preserve"><tspan fill="#e2e8f0">        </tspan><tspan fill="#f78c6c">self</tspan><tspan fill="#82aaff">.ubicacion   </tspan><tspan fill="#89ddff">= </tspan><tspan fill="#c3e88d">"Medellín, Colombia"</tspan></text>
+</g>
+<g class="ln" style="animation-delay:0.83s">
+<text x="270" y="236" text-anchor="end" class="m" font-size="13" fill="#3d5670">6</text>
+<text x="294" y="236" class="m" font-size="14" xml:space="preserve"><tspan fill="#e2e8f0">        </tspan><tspan fill="#f78c6c">self</tspan><tspan fill="#82aaff">.formacion   </tspan><tspan fill="#89ddff">= </tspan><tspan fill="#c3e88d">"Tecnología ADSO · SENA (2025 - 2027)"</tspan></text>
+</g>
+<g class="ln" style="animation-delay:0.95s">
+<text x="270" y="260" text-anchor="end" class="m" font-size="13" fill="#3d5670">7</text>
+<text x="294" y="260" class="m" font-size="14" xml:space="preserve"><tspan fill="#e2e8f0">        </tspan><tspan fill="#f78c6c">self</tspan><tspan fill="#82aaff">.backend     </tspan><tspan fill="#89ddff">= </tspan><tspan fill="#89ddff">[</tspan><tspan fill="#c3e88d">"Java · Spring Boot"</tspan><tspan fill="#89ddff">, </tspan><tspan fill="#c3e88d">"Python · Django · FastAPI"</tspan><tspan fill="#89ddff">]</tspan></text>
+</g>
+<g class="ln" style="animation-delay:1.07s">
+<text x="270" y="284" text-anchor="end" class="m" font-size="13" fill="#3d5670">8</text>
+<text x="294" y="284" class="m" font-size="14" xml:space="preserve"><tspan fill="#e2e8f0">        </tspan><tspan fill="#f78c6c">self</tspan><tspan fill="#82aaff">.frontend    </tspan><tspan fill="#89ddff">= </tspan><tspan fill="#89ddff">[</tspan><tspan fill="#c3e88d">"React"</tspan><tspan fill="#89ddff">, </tspan><tspan fill="#c3e88d">"Tailwind CSS"</tspan><tspan fill="#89ddff">, </tspan><tspan fill="#c3e88d">"Bootstrap"</tspan><tspan fill="#89ddff">]</tspan></text>
+</g>
+<g class="ln" style="animation-delay:1.19s">
+<text x="270" y="308" text-anchor="end" class="m" font-size="13" fill="#3d5670">9</text>
+<text x="294" y="308" class="m" font-size="14" xml:space="preserve"><tspan fill="#e2e8f0">        </tspan><tspan fill="#f78c6c">self</tspan><tspan fill="#82aaff">.escritorio  </tspan><tspan fill="#89ddff">= </tspan><tspan fill="#89ddff">[</tspan><tspan fill="#c3e88d">"C# · .NET 8 (WinForms)"</tspan><tspan fill="#89ddff">, </tspan><tspan fill="#c3e88d">"WPF"</tspan><tspan fill="#89ddff">]</tspan></text>
+</g>
+<g class="ln" style="animation-delay:1.31s">
+<text x="270" y="332" text-anchor="end" class="m" font-size="13" fill="#3d5670">10</text>
+<text x="294" y="332" class="m" font-size="14" xml:space="preserve"><tspan fill="#e2e8f0">        </tspan><tspan fill="#f78c6c">self</tspan><tspan fill="#82aaff">.datos       </tspan><tspan fill="#89ddff">= </tspan><tspan fill="#89ddff">[</tspan><tspan fill="#c3e88d">"PostgreSQL"</tspan><tspan fill="#89ddff">, </tspan><tspan fill="#c3e88d">"MySQL"</tspan><tspan fill="#89ddff">, </tspan><tspan fill="#c3e88d">"NoSQL"</tspan><tspan fill="#89ddff">]</tspan></text>
+</g>
+<g class="ln" style="animation-delay:1.43s">
+<text x="270" y="356" text-anchor="end" class="m" font-size="13" fill="#3d5670">11</text>
+<text x="294" y="356" class="m" font-size="14" xml:space="preserve"><tspan fill="#e2e8f0">        </tspan><tspan fill="#f78c6c">self</tspan><tspan fill="#82aaff">.metodologia </tspan><tspan fill="#89ddff">= </tspan><tspan fill="#c3e88d">"Scrum · Git/GitHub · Taiga.io"</tspan></text>
+</g>
+<g class="ln" style="animation-delay:1.55s">
+<text x="270" y="380" text-anchor="end" class="m" font-size="13" fill="#3d5670">12</text>
+<text x="294" y="380" class="m" font-size="14" xml:space="preserve"><tspan fill="#e2e8f0">        </tspan><tspan fill="#f78c6c">self</tspan><tspan fill="#82aaff">.idiomas     </tspan><tspan fill="#89ddff">= </tspan><tspan fill="#89ddff">{</tspan><tspan fill="#c3e88d">"es"</tspan><tspan fill="#89ddff">: </tspan><tspan fill="#c3e88d">"nativo"</tspan><tspan fill="#89ddff">, </tspan><tspan fill="#c3e88d">"en"</tspan><tspan fill="#89ddff">: </tspan><tspan fill="#c3e88d">"básico"</tspan><tspan fill="#89ddff">}</tspan></text>
+</g>
+<g class="ln" style="animation-delay:1.67s">
+<text x="270" y="404" text-anchor="end" class="m" font-size="13" fill="#3d5670">13</text>
+</g>
+<g class="ln" style="animation-delay:1.72s">
+<text x="270" y="428" text-anchor="end" class="m" font-size="13" fill="#3d5670">14</text>
+<text x="294" y="428" class="m" font-size="14" xml:space="preserve"><tspan fill="#e2e8f0">    </tspan><tspan fill="#c792ea">def </tspan><tspan fill="#82aaff">mision</tspan><tspan fill="#89ddff">(</tspan><tspan fill="#f78c6c">self</tspan><tspan fill="#89ddff">) -&gt; </tspan><tspan fill="#ffcb6b">str</tspan><tspan fill="#89ddff">:</tspan></text>
+</g>
+<g class="ln" style="animation-delay:1.84s">
+<text x="270" y="452" text-anchor="end" class="m" font-size="13" fill="#3d5670">15</text>
+<text x="294" y="452" class="m" font-size="14" xml:space="preserve"><tspan fill="#e2e8f0">        </tspan><tspan fill="#c792ea">return </tspan><tspan fill="#c3e88d">"Construir software escalable, seguro y bien estructurado"</tspan></text>
+</g>
+<line x1="298" y1="124" x2="298" y2="442" stroke="#1b2f47"/>
+<line x1="332" y1="196" x2="332" y2="388" stroke="#1b2f47"/>
+<line x1="230" y1="482" x2="1199" y2="482" stroke="#1b2f47"/>
+<text x="254" y="506" class="s" font-size="11" font-weight="700" letter-spacing="1.5" fill="#6b8299">TERMINAL</text>
+<rect x="254" y="512" width="64" height="2" fill="#00b4d8"/>
+<g class="ln" style="animation-delay:2.26s"><text x="254" y="540" class="m" font-size="14"><tspan fill="#2ee59d">daniel@sena</tspan><tspan fill="#6b8299">:</tspan><tspan fill="#82aaff">~/medellin</tspan><tspan fill="#e2e8f0">$ python -c "from sobre_mi import Daniel; print(Daniel().mision())"</tspan></text></g>
+<g class="ln" style="animation-delay:3.06s"><text x="254" y="566" class="m" font-size="14"><tspan fill="#00b4d8">→ </tspan><tspan fill="#caf0f8">Construir software escalable, seguro y bien estructurado</tspan></text></g>
+<g class="ln" style="animation-delay:3.56s"><text x="254" y="592" class="m" font-size="14"><tspan fill="#2ee59d">daniel@sena</tspan><tspan fill="#6b8299">:</tspan><tspan fill="#82aaff">~/medellin</tspan><tspan fill="#e2e8f0">$ </tspan></text><rect class="cur" x="456.32" y="579" width="9" height="17" fill="#00b4d8"/></g>
+<path d="M1 612 H1199 V621 a18 18 0 0 1 -18 18 H19 a18 18 0 0 1 -18 -18Z" fill="#0077b6"/>
+<text x="18" y="630" class="s" font-size="12" fill="#ffffff" xml:space="preserve">⎇ main    ✓ 0 errores    Python 3.12</text>
+<text x="1182" y="630" text-anchor="end" class="s" font-size="12" fill="#ffffff" xml:space="preserve">UTF-8    Español (CO)    Medellín, Colombia</text>
+</svg>
