@@ -53,7 +53,7 @@ Estudiante de **Tecnología en Análisis y Desarrollo de Software (ADSO)** en el
 ## 🚀 Proyectos Destacados
 
 <div align="center">
-  <a href="https://github.com/DanielBarrientos10/Project-Sena-Web-Store-Textil"><img src="assets/card-dd-textil.svg" width="49%" alt="D&D Textil — E-commerce" /></a>
+  <a href="https://github.com/Jhonmoreno000/PROYECTO-SENA-TIENDA-TEXTIL-"><img src="assets/card-dd-textil.svg" width="49%" alt="D&D Textil — E-commerce" /></a>
   <a href="https://github.com/MrDylanDev/RestoOs"><img src="assets/card-restoos.svg" width="49%" alt="RestoOS — App de escritorio" /></a>
 </div>
 
